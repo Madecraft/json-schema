@@ -12,10 +12,12 @@ Collection of JSON schemas for use in command line validators, editors auto-comp
 
 ## Editors Support
 
-- VsCode:- 
+- VsCode:-
+```JSON
 "yaml.schemas": {
   "https://raw.githubusercontent.com/Madecraft/json-schema/master/serverless/reference.json": "serverless.yml"
 }
+```
 - IntelliJ:- Editors in the IntelliJ family
 
 ## About
